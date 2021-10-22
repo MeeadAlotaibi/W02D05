@@ -1,0 +1,18 @@
+body{
+    margin: 10%;
+
+}
+
+.container{
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background: white;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+
+}
+p{
+    color:white;
+}
